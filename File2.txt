@@ -1,3 +1,6 @@
 Hi This is my first line of the new file
 adding new lines describing new feature
+<<<<<<< HEAD
 print(next)
+printing is not available
+
